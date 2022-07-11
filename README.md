@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nieosas
 - 👀 I’m interested in Financial technology
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on great tech jobs and events 
 - 📫 How to reach me 
 LinkedIn Nie Osaoboh 
 Twitter @nie_osas
