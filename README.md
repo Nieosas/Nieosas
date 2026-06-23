@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @Nieosas
-- 👀 I’m interested in Financial technology
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on great tech jobs and events 
-- 📫 How to reach me 
-LinkedIn https://www.linkedin.com/in/osaoboh-nie-a3b377202
-Twitter @nie_osas
-<!---
-Nieosas/Nieosas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a Product Designer focused on UI/UX for SaaS platforms, mobile apps, and dashboards using Figma
+- 🌱 I’m currently improving my skills in product design, design systems, and modern UX workflows
+- 💞️ I’m looking to collaborate on SaaS products, mobile apps, and design-driven tech projects
+- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/osaoboh-nie | Email: slinnosas@gmail.com
